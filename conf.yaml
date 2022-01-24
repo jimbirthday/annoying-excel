@@ -1,0 +1,15 @@
+Server:
+  Port: 8010
+
+Logs:
+  Path: ./
+
+Database:
+  Host: xxx
+  Port: xxx
+  Database: xxx
+  Username: xxx
+  Password: xxx
+  Showsql: true
+
+IsDebug: true
